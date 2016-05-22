@@ -1,0 +1,1 @@
+Ruby is a changing language. Not as annoying in this regard as Python, as there is only one version to deal with instead of two. Ruby has been a positive change from Java. It's far more expressive and I can include multiple classes in one file.

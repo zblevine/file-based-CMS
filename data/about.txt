@@ -1,0 +1,1 @@
+This text file is about Ruby. I like Ruby. I can do all sorts of things on just one line. All the built-in commands make it gentle for new programmers while still being object-oriented.
